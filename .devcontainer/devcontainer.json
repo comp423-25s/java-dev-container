@@ -1,0 +1,11 @@
+{
+    "name": "Java Dev Container Example",
+    "image": "mcr.microsoft.com/devcontainers/java:latest",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "vscjava.vscode-java-pack"
+            ]
+        }
+    }
+}
