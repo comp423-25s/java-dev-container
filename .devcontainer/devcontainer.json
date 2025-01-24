@@ -1,6 +1,6 @@
 {
     "name": "Java Dev Container Example",
-    "image": "mcr.microsoft.com/devcontainers/java:latest",
+    "image": "mcr.microsoft.com/devcontainers/java:21",
     "customizations": {
         "vscode": {
             "extensions": [
